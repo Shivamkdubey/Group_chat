@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840847612031",
+    "project_id": "flash-chat-a36a1",
+    "storage_bucket": "flash-chat-a36a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840847612031:android:09717d0f0adca19c6f874a",
+        "android_client_info": {
+          "package_name": "co.ShivamKumarDubey.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840847612031-l5ecl6semvl6jsm3ctll4h0iiti3un1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAEDVLD1Xyb2L_XXl3GHYLO8rMHyYWBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840847612031-l5ecl6semvl6jsm3ctll4h0iiti3un1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
